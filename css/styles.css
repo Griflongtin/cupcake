@@ -1,4 +1,19 @@
+body {
+  background-color: #FFE0FB;
+  text-align: center;
+}
+.float {
+  text-align: left;
+}
+.Fancy-title {
+  font-family: fantasy;
+  line-height: 20px;
 
+}
+.recipes-pics {
+  width: 400px;
+  height:  auto;
+}
 /* nav bar */
 ul {
     list-style-type: none;
